@@ -6,13 +6,13 @@ It includes: <br>
 <ul>
   <li>Profile section with image and intro</li>
 
-<li>Navigation menu using <nav> and <a> </li>
+<li>Navigation menu  </li>
 
-About, Skills, and Experience sections
+<li>About, Skills, and Experience sections</li>
 
-Contact form with <form>, <input>, <textarea>, and <button>
+<li>Contact form with form and its attributes</li>
 
-Layout using Flexbox, Positioning, and CSS Transforms
+<li>Layout using Flexbox, Positioning, and CSS Transforms</li>
 
-CSS applied through inline, internal, and external methods
+<li>CSS applied through inline, internal, and external methods</li>
 <ul></ul>
