@@ -1,4 +1,4 @@
-Personal Portfolio <br>
+<b>Personal Portfolio<b> <br>
 
 I made this personal portfolio website built using HTML and CSS. 
 It includes: <br>
@@ -6,7 +6,7 @@ It includes: <br>
 <ul>
   <li>Profile section with image and intro</li>
 
-Navigation menu using <nav> and <a>
+<li>Navigation menu using <nav> and <a> </li>
 
 About, Skills, and Experience sections
 
